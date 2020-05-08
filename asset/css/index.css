@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
 body{
     margin: 0;
     padding: 0;
@@ -15,7 +16,7 @@ div.title{
     color: white;
     font-size: 30px;
     padding: 35px;
-    font-family: "微軟正黑體";
+    font-family: ‘cwTeXYen’,  "微軟正黑體";
 }
 nav{
     padding: 35px;
@@ -33,7 +34,7 @@ li.nav_item{
     color: white;
     font-size: 30px;
     padding-top: 3px;
-    font-family: "微軟正黑體";
+    font-family:  ‘cwTeXYen’,  "微軟正黑體";
 }
 /*ARTICLE */
 div.midarea{
@@ -73,7 +74,7 @@ div.block_bg1{
 }
 div.article_title{
     font-size: 45px;
-    font-family: "微軟正黑體";
+    font-family:  ‘cwTeXYen’,  "微軟正黑體";
     text-align: center;
     color: RGB(95, 125, 175);
     padding: 15px;
@@ -92,7 +93,7 @@ div.circle_subtltle{
     text-align: center;
     padding: 10px;
     font-size: 30px;
-    font-family: "微軟正黑體";
+    font-family: ‘cwTeXYen’,  "微軟正黑體";
 }
 
 div.block_bg2{
@@ -103,7 +104,7 @@ div.block_bg2{
 }
 /*LEARN*/
 p.learn_bartext{
-    font-family: "微軟正黑體";
+    font-family:  ‘cwTeXYen’, "微軟正黑體";
     font-size: 20px;
 }
 div.linebar_area{
@@ -207,18 +208,18 @@ div.show_his_area{
 
 #his_title{
     font-size: 35px;
-    font-family: "微軟正黑體";
+    font-family:  ‘cwTeXYen’, "微軟正黑體";
     margin: 0;
 }
 #his_subtitle{
     font-size: 30px;
-    font-family: "微軟正黑體";
+    font-family: ‘cwTeXYen’,  "微軟正黑體";
     margin-top: 5px;
     margin-bottom: 10px;
 }
 #his_info{
     font-size: 20px;
-    font-family: "微軟正黑體";
+    font-family:  ‘cwTeXYen’, "微軟正黑體";
     margin: auto;
 }
 
@@ -281,7 +282,7 @@ div.personal_img{
     padding-top: 40px;
 }
 p.personal_info{
-    font-family: "微軟正黑體";
+    font-family:  ‘cwTeXYen’, "微軟正黑體";
     font-size: 20px;
     padding-left: 50px;
     margin-top: 10px;
@@ -354,7 +355,7 @@ div.img_inner{
     margin: auto;
     font-size: 40px;
     color: white;
-    font-family: "微軟正黑體";
+    font-family:  ‘cwTeXYen’, "微軟正黑體";
     text-decoration: none;
 }
 div.imgrow{
@@ -374,7 +375,7 @@ footer{
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 15px;
-    font-family: "微軟正黑體";
+    font-family: ‘cwTeXYen’,  "微軟正黑體";
 }
 
 
