@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
 body{
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ div.title{
     color: white;
     font-size: 30px;
     padding: 35px;
-    font-family: ‘cwTeXYen’,  "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
 }
 nav{
     padding: 35px;
@@ -34,7 +34,7 @@ li.nav_item{
     color: white;
     font-size: 30px;
     padding-top: 3px;
-    font-family:  ‘cwTeXYen’,  "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
 }
 /*ARTICLE */
 div.midarea{
@@ -93,7 +93,7 @@ div.circle_subtltle{
     text-align: center;
     padding: 10px;
     font-size: 30px;
-    font-family: ‘cwTeXYen’,  "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
 }
 
 div.block_bg2{
@@ -104,7 +104,7 @@ div.block_bg2{
 }
 /*LEARN*/
 p.learn_bartext{
-    font-family:  ‘cwTeXYen’, "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
     font-size: 20px;
 }
 div.linebar_area{
@@ -208,18 +208,18 @@ div.show_his_area{
 
 #his_title{
     font-size: 35px;
-    font-family:  ‘cwTeXYen’, "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
     margin: 0;
 }
 #his_subtitle{
     font-size: 30px;
-    font-family: ‘cwTeXYen’,  "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
     margin-top: 5px;
     margin-bottom: 10px;
 }
 #his_info{
     font-size: 20px;
-    font-family:  ‘cwTeXYen’, "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
     margin: auto;
 }
 
@@ -355,7 +355,7 @@ div.img_inner{
     margin: auto;
     font-size: 40px;
     color: white;
-    font-family:  ‘cwTeXYen’, "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
     text-decoration: none;
 }
 div.imgrow{
@@ -375,7 +375,7 @@ footer{
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 15px;
-    font-family: ‘cwTeXYen’,  "微軟正黑體";
+    font-family: 'Noto Sans TC', "微軟正黑體", sans-serif;
 }
 
 
