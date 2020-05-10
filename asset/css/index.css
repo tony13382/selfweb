@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #D1DFE8;
+    background-color: #EDE2E3;
 }
 header{
     width: 100%;
@@ -41,7 +41,6 @@ div.midarea{
     position: relative;
     margin: 0;
     min-width: 1300px;
-    height: 2800px;
 }
 div.banner{
     width: 100%;
@@ -52,9 +51,7 @@ div.banner{
 div.section{
     width: 70%;
     background-color: #ECEEF0;
-    position: absolute;
-    top: 0px;
-    left: 0px;
+    float: left;
 }
 div.aside{
     width: 30%;
@@ -65,6 +62,7 @@ div.aside{
     position: -webkit-sticky;
     top: 0px;
     left: 70%;
+    float: left;
 }
 div.block_bg1{
     padding-top: 15px;
